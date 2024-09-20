@@ -1,0 +1,2 @@
+# Automateazy
+Frontend angular project
